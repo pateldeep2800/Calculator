@@ -1,4 +1,4 @@
-# Calculator
+# CALCULATOR
 
 LANGUAGE-PYTHON
 
